@@ -1,1 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T05:58:25.442Z" agent="5.0 (Windows)" version="15.5.2" etag="XiBTee8-Ff4vpxSBWDZZ" type="github"><diagram id="du-sEcLSfbDb36R-33GU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-15T08:57:00.229Z" agent="5.0 (Windows)" etag="SbHvAVR8MZBjggV3vTWP" version="15.5.2" type="github">
+  <diagram id="du-sEcLSfbDb36R-33GU" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="50000" pageHeight="50000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12530" y="7115.64" width="440" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12849.75" y="6760" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-41" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12448.75" y="6840" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="13461.5" y="5690" width="810" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-3" value="&lt;div&gt;user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="12320" y="6860" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-15" value="SSO" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12513.75" y="6590" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-18" value="MQTT&#xa;protocol" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mqtt_protocol;" vertex="1" parent="1">
+          <mxGeometry x="14280" y="6290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-19" value="&lt;div&gt;Mqtt Broker&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_device_gateway;" vertex="1" parent="1">
+          <mxGeometry x="12873.25" y="6910" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="USzm1Ey-J2na2Gk6M5RA-3" target="USzm1Ey-J2na2Gk6M5RA-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12410" y="6730" as="sourcePoint" />
+            <mxPoint x="12440.175687803812" y="6844.37803926948" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12490" y="6865" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-39" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" vertex="1" parent="1">
+          <mxGeometry x="12547.5" y="6865" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/24.TV-128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12593.75" y="6860" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-42" value="IoT Device" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" vertex="1" parent="1">
+          <mxGeometry x="12540" y="7175.64" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-44" value="&lt;div&gt;Cloud&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="13260" y="6190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-45" value="&lt;div&gt;Api Gateway&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="12874.75" y="6780" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-48" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12718.75" y="7148.64" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-49" value="Internet" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="12870" y="7161.64" width="79.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-50" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="USzm1Ey-J2na2Gk6M5RA-41" target="USzm1Ey-J2na2Gk6M5RA-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12540" y="6750" as="sourcePoint" />
+            <mxPoint x="12590" y="6700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-51" value="&lt;div&gt;登录注册&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="USzm1Ey-J2na2Gk6M5RA-50">
+          <mxGeometry x="0.2004" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-54" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="USzm1Ey-J2na2Gk6M5RA-41" target="USzm1Ey-J2na2Gk6M5RA-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12440" y="7090" as="sourcePoint" />
+            <mxPoint x="12420" y="7150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-56" value="wifi password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="USzm1Ey-J2na2Gk6M5RA-54">
+          <mxGeometry x="0.3043" relative="1" as="geometry">
+            <mxPoint y="-61" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-55" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="USzm1Ey-J2na2Gk6M5RA-42" target="USzm1Ey-J2na2Gk6M5RA-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12630" y="7259.64" as="sourcePoint" />
+            <mxPoint x="12680" y="7249.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-57" value="wifi password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="USzm1Ey-J2na2Gk6M5RA-55">
+          <mxGeometry x="-0.1518" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-58" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="USzm1Ey-J2na2Gk6M5RA-48" target="USzm1Ey-J2na2Gk6M5RA-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12810" y="7149.64" as="sourcePoint" />
+            <mxPoint x="12860" y="7099.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-59" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="USzm1Ey-J2na2Gk6M5RA-49" target="USzm1Ey-J2na2Gk6M5RA-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12450" y="7200" as="sourcePoint" />
+            <mxPoint x="12760" y="7040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-60" value="&lt;font color=&quot;#FF6666&quot;&gt;1.设备配网&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="12560" y="7238.64" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-61" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" vertex="1" parent="1">
+          <mxGeometry x="13050" y="6460" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-62" value="&lt;h1&gt;平台交互逻辑&lt;/h1&gt;&lt;div&gt;1. 单点登录&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 消息通知&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 设备分享&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 房间位置&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 定时任务&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="12060" y="6460" width="190" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="USzm1Ey-J2na2Gk6M5RA-63" value="&lt;h1&gt;设备控制逻辑&lt;/h1&gt;1. 设备配网&lt;p&gt;2. 设备注册&lt;/p&gt;&lt;p&gt;3. 设备上线&lt;/p&gt;&lt;p&gt;4. 设备列表&lt;/p&gt;&lt;p&gt;5. 设备控制&lt;/p&gt;&lt;p&gt;6. 设备反馈&lt;/p&gt;&lt;p&gt;7. 交互日志&lt;/p&gt;&lt;p&gt;8. 设备OTA&lt;/p&gt;&lt;p&gt;9. 设备解绑/重置&lt;/p&gt;&lt;p&gt;10. 设备下线&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="11800" y="6460" width="190" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
